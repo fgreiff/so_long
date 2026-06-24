@@ -2,9 +2,6 @@
 
 # so_long — A Small 2D Game
 
-![C](https://img.shields.io/badge/language-C-blue.svg)
-![Norm](https://img.shields.io/badge/norminette-passing-brightgreen)
-
 ## Description
 
 **so_long** is a small top-down 2D game built with the **MiniLibX** graphics library. The player navigates a tile-based map, collects all items, and reaches the exit. It introduces key graphics programming concepts: window management, texture rendering, keyboard event handling, and map parsing and validation.
